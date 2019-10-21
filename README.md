@@ -1,5 +1,8 @@
 ## Welcome to the basic statistics lessons package.
 
+The notebooks in this package are intended to provide a basic foundation in statistical concepts as they relate to particle physics, and make the more
+advanced materials more accessible.
+Mistakes are my own (but please let me know if you see something fishy!)
 
 [![Open in SWAN][openswan-image]][openswan-link]
 
